@@ -18,9 +18,13 @@ The line of best fit is the line that minimizes the sum of the squared differenc
 2)The coefficient of determination (R-squared) 
 
 #Assumptions in Linear Regression are
+
 ---->Simple linear regression assumes that there is a linear relationship between X and Y.
+
 ----->The error term should be Normally Distributes
+
 ------>There should not be Heteroskedacity.
+
 ------->There should not be Multicollinearity.
 
 
