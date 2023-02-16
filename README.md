@@ -13,11 +13,11 @@ The line of best fit is the line that minimizes the sum of the squared differenc
 
 
 
-#Evaluation metrics for Simple Linear regression are:
+###Evaluation metrics for Simple Linear regression are:
 1)The correlation coefficient (r)
 2)The coefficient of determination (R-squared) 
 
-#Assumptions in Linear Regression are
+###Assumptions in Linear Regression are
 
 ---->Simple linear regression assumes that there is a linear relationship between X and Y.
 
